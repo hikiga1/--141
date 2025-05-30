@@ -17,7 +17,7 @@ void calculateVariant11() {
     double b = exp(z * x + sqrt(x + z)) * sqrt(fabs(x - y));
     
     // Вывод результатов
-    cout << "Вариант 11:" << endl;
+    cout << "Вариант:" << endl;
     cout << "Константы: x = " << x << ", y = " << y << ", z = " << z << endl;
     cout << "Результаты вычислений:" << endl;
     cout << fixed << setprecision(6);
