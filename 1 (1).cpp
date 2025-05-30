@@ -20,7 +20,7 @@ void calculateVariant11() {
     computeAB(x, y, z, a, b);
 
     // Вывод результатов
-    cout << "Вариант 11:" << endl;
+    cout << "Вариант:" << endl;
     cout << "Константы: x = " << x << ", y = " << y << ", z = " << z << endl;
     cout << "Результаты вычислений:" << endl;
     cout << fixed << setprecision(6);
